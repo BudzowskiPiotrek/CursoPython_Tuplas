@@ -1,3 +1,7 @@
+# Definir una tupla con tres valores enteros. 
+# Convertir el contenido de la tupla a tipo lista. 
+# Modificar la lista y luego convertir la lista en tupla.
+
 fechatupla1 = (25, 12, 2016)
 print("Imprimimos la primer tupla")
 print(fechatupla1)
