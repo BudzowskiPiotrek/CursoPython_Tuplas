@@ -1,3 +1,9 @@
+# Confeccionar un programa con las siguientes funciones:
+# 1) Cargar una lista de 5 enteros.
+# 2) Retornar el mayor y menor valor de la lista mediante una tupla.
+# Desempaquetar la tupla en el bloque principal y mostrar el mayor y menor.
+
+
 def cargar():
     lista = []
     for x in range(5):
@@ -17,8 +23,6 @@ def retornar_mayormenor(lista):
                 men = lista[x]
     return (may, men)
 
-
-# bloque principal
 
 lista = cargar()
 mayor, menor = retornar_mayormenor(lista)
