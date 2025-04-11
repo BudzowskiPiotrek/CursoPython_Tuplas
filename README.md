@@ -1,5 +1,4 @@
 # 🐍 CursoPython-Tuplas
-
 ## 📦 Este repositorio contiene una colección de ejercicios prácticos en Python, enfocados en el uso de tuplas, una estructura de datos fundamental que permite almacenar colecciones inmutables de elementos.
 
 ## 📚 Temas cubiertos
